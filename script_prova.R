@@ -7,3 +7,5 @@ casuali <- runif(10)
 #genero dei numeri casuali da distribuzione normale standard
 
 casuali_norm <- rnorm(10)
+
+casuali_lnorm <- rlnorm(10)
