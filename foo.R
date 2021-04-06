@@ -1,9 +1,12 @@
----
+#. ---
 #. title: "Redering an R script"
 #. author: "Giulio Mela"
 #. date: "6/4/2021"
-#. output: html_document
----
+#. output:
+#.  html_document:
+#.    keep_md: true  
+
+#. ---
 
 #+ r setup, include=FALSE
 knitr::opts_chunk$set(echo = TRUE)
