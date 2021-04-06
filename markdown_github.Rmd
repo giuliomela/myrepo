@@ -2,7 +2,9 @@
 title: "Il primo Markdown in GitHub"
 author: "Giulio Mela"
 date: "6/4/2021"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
